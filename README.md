@@ -3,7 +3,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arnavbansal2764&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavbansal2764&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# 💫 About Me:
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bansal-5716b9220/) 
+<br clear="both">
 💻 Full-Stack Dev : Expert in NEXT.JS, React, TypeScript, and MERN stack to build dynamic web apps.<br>📅 Google API : Integrating Google Calendar for seamless sync and event updates.<br>☁️ Cloud & Docker : Deploying apps with cloud services and Docker, running Redis locally.<br>🤖 AI & Emotion Analysis : Exploring facial recognition and emotional analysis for smart user interactions.<br>🌱 Open-Source : Contributing to open-source projects and continuously learning.
 
 
@@ -16,10 +17,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/arnavbansal2764/arnavbansal2764/output/github-snake.svg" />
 </picture>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bansal-5716b9220/) 
-<br clear="both">
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 

@@ -5,7 +5,7 @@
 
 # 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bansal-5716b9220/) 
 <br clear="both">
-💻 Full-Stack Dev : Expert in NEXT.JS, React, TypeScript, and MERN stack to build dynamic web apps.<br>📅 Google API : Integrating Google Calendar for seamless sync and event updates.<br>☁️ Cloud & Docker : Deploying apps with cloud services and Docker, running Redis locally.<br>🤖 AI & Emotion Analysis : Exploring facial recognition and emotional analysis for smart user interactions.<br>🌱 Open-Source : Contributing to open-source projects and continuously learning.
+💻 Full-Stack Dev : Expert in NEXT.JS, React, TypeScript, and MERN stack to build dynamic web apps.<br>☁️ Cloud & Docker : Deploying apps with cloud services and Docker, running Redis locally.<br>🤖 AI & Emotion Analysis : Exploring facial recognition and emotional analysis for smart user interactions.<br>🌱 Open-Source : Contributing to open-source projects and continuously learning.
 
 
 # 💻 Tech Stack:

@@ -9,6 +9,7 @@
 
 # Current Projects
 
+-  **[Lord-Code cli tool](https://github.com/arnavbansal2764/lord-code-cli)** - Claude code clone....but better and versatile
 -  **[URL Shortner with Spring Boot](https://github.com/arnavbansal2764/url-shortner-springboot)** - A simple backend project which shortens a url
 -  **[Push2Cloud](https://github.com/arnavbansal2764/Push2Cloud)** - A devops project to deploy and scale containers directly from github repos.
 # 💻 Tech Stack:

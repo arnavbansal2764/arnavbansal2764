@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Arnav Bansal and I'm a Full Stack Developer and DevOps Engineer</h2>
+<h2 align="left">Hi 👋! My name is Arnav Bansal and I'm a AI Full Stack Developer and DevOps Engineer</h2>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arnavbansal2764&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavbansal2764&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
